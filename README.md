@@ -1,7 +1,7 @@
 
-<h1>Portfolio Website</h1> </br>
+<h1>E-COMMERCE WEBSİTE</h1> </br>
 
-if you want to create Portfolio web site , you can use this my project.
+if you want to create e-commerce website , you can use this my project.
 
 
 <h1>Libraries I use </br></h1>
