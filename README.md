@@ -1,7 +1,7 @@
 
-<h1>E-Commerce Website</h1> </br>
+<h1>Portfolio Website</h1> </br>
 
-if you want to create Commerce web site , you can use this my project.
+if you want to create Portfolio web site , you can use this my project.
 
 
 <h1>Libraries I use </br></h1>
@@ -12,11 +12,10 @@ if you want to create Commerce web site , you can use this my project.
 
 
 <h2>Screen Gif</h2>
-![images](https://user-images.githubusercontent.com/72045966/161712186-f02d431a-1052-4037-86ae-1fedcfdcd8f1.gif)
-
 
 
 In the project directory, you can run:
+![images](https://user-images.githubusercontent.com/72045966/161713870-971dbf13-36ac-4638-a864-894a2ba76503.gif)
 
 ### `npm start`
 
