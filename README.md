@@ -13,10 +13,10 @@ if you want to create e-commerce website , you can use this my project.
 
 <h2>Screen Gif</h2>
 
-
-In the project directory, you can run:
 ![images](https://user-images.githubusercontent.com/72045966/161713870-971dbf13-36ac-4638-a864-894a2ba76503.gif)
 
+
+In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
